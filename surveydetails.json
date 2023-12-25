@@ -37,7 +37,7 @@
       "price": "9,600"
     }
   ],
-  "paymentDetails": {
+  "mpesaPaymentDetails": {
     "tillName": "Flex Solutions Kenya",
     "tillNumber": 9828195
   }
