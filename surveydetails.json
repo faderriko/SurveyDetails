@@ -34,7 +34,7 @@
       "description": "Tutors are always in-demand. Whether you are a teacher or someone with specific knowledge, you can help learners improve their grades and prepare for exams. Just keep in mind that you should have the teaching experience and a subject-specific certification. This will help create credibility for both parents and students."
     }
   ],
-  "packagePlans": [
+  "surveysPlans": [
     {
       "planName": "Free Account",
       "dailySurvey": 1,
